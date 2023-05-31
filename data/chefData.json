@@ -1,0 +1,428 @@
+[
+  {
+    "chefPicture": "https://i.ibb.co/1f1LsG3/cheff-mojid.jpg",
+    "chefName": "Mojid Chaca",
+    "yearsOfExperience": 50,
+    "numberOfRecipes": 500,
+    "likes": 1000,
+    "id": 1,
+    "bio": "Mojid Chaca is a renowned chef with over 50 years of experience in the culinary arts. He has a passion for creating dishes that are both delicious and visually stunning.",
+    "recipes": [
+      {
+        "name": "Beef Bhuna",
+        "description": "A spicy and flavorful beef dish made with caramelized onions, ginger, garlic, and a blend of aromatic spices.",
+        "image": "https://i.ibb.co/sPFYCtt/pexels-photo-14785917.jpg",
+        "ingredients": [
+          "1 lb. beef, cubed",
+          "1 large onion, chopped",
+          "2 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "Salt, to taste",
+          "3 tbsp. oil"
+        ],
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot.",
+        "rating": 4.3
+      },
+      {
+        "name": "Fish Kalia",
+        "description": "A rich and creamy fish curry made with coconut milk, onions, tomatoes, and a blend of spices.",
+        "image": "https://i.ibb.co/Wxr2Cg7/pexels-photo-725991.jpg",
+        "ingredients": [
+          "1 lb. fish, cubed",
+          "1 large onion, chopped",
+          "2 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "Salt, to taste",
+          "3 tbsp. oil"
+        ],
+        "rating": 4.2,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
+      },
+      {
+        "name": "Chicken Rezala",
+        "description": "A fragrant and mild chicken curry made with yogurt, cream, and a blend of aromatic spices.",
+        "image": "https://i.ibb.co/s2PfMv8/pexels-photo-1624487.jpg",
+        "ingredients": [
+          "1 lb. chicken, cubed",
+          "1 large onion, chopped",
+          "2 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "Salt, to taste",
+          "3 tbsp. oil"
+        ],
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "chefPicture": "https://i.ibb.co/k4DmtyD/pexels-photo-14918530.jpg",
+    "chefName": "Moyna Mia",
+    "yearsOfExperience": 8,
+    "numberOfRecipes": 30,
+    "likes": 500,
+    "id": 2,
+    "bio": "Moyna Mia is a talented chef with a passion for creating healthy and flavorful dishes. She has a background in nutrition and believes that food can be both delicious and nourishing.",
+    "recipes": [
+      {
+        "name": "Chingri Malai Curry",
+        "description": "A creamy and delicious shrimp curry made with coconut milk, onions, tomatoes, and a blend of spices.",
+        "image": "https://i.ibb.co/CPMqNFz/pexels-photo-7363720.jpg",
+        "ingredients": [
+          "1 lb. chingri, cubed",
+          "1 large onion, chopped",
+          "2 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "Salt, to taste",
+          "3 tbsp. oil"
+        ],
+        "rating": 4.7,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
+      },
+      {
+        "name": "Lau Ghonto",
+        "description": "A flavorful and nutritious dish made with bottle gourd, potatoes, and a blend of spices.",
+        "image": "https://i.ibb.co/dJ216YC/Lau-ghonto-recipe.jpg",
+        "ingredients": [
+          "1 lb. lau, cubed",
+          "1 large onion, chopped",
+          "2 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "Salt, to taste",
+          "3 tbsp. oil"
+        ],
+        "rating": 4.7,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
+      },
+      {
+        "name": "Murgir Jhol",
+        "description": "A simple and comforting chicken curry made with potatoes, onions, and a blend of spices.",
+        "image": "https://i.ibb.co/s2PfMv8/pexels-photo-1624487.jpg",
+        "ingredients": [
+          "1 lb. lau, cubed",
+          "1 large onion, chopped",
+          "2 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "Salt, to taste",
+          "3 tbsp. oil"
+        ],
+        "rating": 4.7,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
+      }
+    ]
+  },
+  {
+    "chefPicture": "https://i.ibb.co/M8XmQ1Q/pexels-photo-16514002.jpg",
+    "chefName": "Alu Chowdhury",
+    "yearsOfExperience": 5,
+    "numberOfRecipes": 20,
+    "likes": 200,
+    "id": 3,
+    "bio": "Alu Chowdhury is a creative chef with a love for experimenting with new ingredients and flavors. He draws inspiration from his travels and incorporates international flavors into his dishes.",
+    "recipes": [
+      {
+        "name": "Shorshe Ilish",
+        "description": "A classic Bangladeshi dish made with mustard paste, green chilies, and ilish fish.",
+        "image": "https://i.ibb.co/sFVpdw9/shorisha.jpg",
+        "ingredients": [
+          "1 lb. lau, cubed",
+          "1 large onion, chopped",
+          "2 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "Salt, to taste",
+          "3 tbsp. oil"
+        ],
+        "rating": 4.7,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
+      },
+      {
+        "name": "Mutton Rezala",
+        "description": "A fragrant and flavorful mutton curry made with yogurt, cream, and a blend of aromatic spices.",
+        "image": "https://i.ibb.co/ZSN1kvX/pexels-photo-9609846.jpg",
+        "ingredients": [
+          "1 lb. lau, cubed",
+          "1 large onion, chopped",
+          "2 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "Salt, to taste",
+          "3 tbsp. oil"
+        ],
+        "rating": 5,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
+      },
+      {
+        "name": "Morog Polao",
+        "description": "A rich and flavorful chicken and rice dish made with a blend of aromatic spices and garnished with fried onions and raisins.",
+        "image": "https://i.ibb.co/s2PfMv8/pexels-photo-1624487.jpg",
+        "ingredients": [
+          "1 lb. lau, cubed",
+          "1 large onion, chopped",
+          "2 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "Salt, to taste",
+          "3 tbsp. oil"
+        ],
+        "rating": 4.4,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
+      }
+    ]
+  },
+  {
+    "chefPicture": "https://i.ibb.co/jLLH5ch/pexels-photo-16513952.jpg",
+    "chefName": "Moti Mia",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 100,
+    "likes": 2000,
+    "id": 4,
+    "bio": "Moti Mia is a masterful chef with a passion for creating dishes that are both delicious and visually stunning. She has honed her craft over decades of experience in the culinary arts.",
+    "recipes": [
+      {
+        "name": "Dhaka Chicken Curry",
+        "description": "A flavorful and spicy chicken curry made with special care.",
+        "image": "https://i.ibb.co/s2PfMv8/pexels-photo-1624487.jpg",
+        "ingredients": [
+          "1 lb. chicken, cubed",
+          "1 large onion, chopped",
+          "2 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "Salt, to taste",
+          "3 tbsp. oil"
+        ],
+        "rating": 4.5,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
+      },
+      {
+        "name": "Bengali Fish Fry",
+        "description": "A crispy and flavorful fried fish dish made with a blend of aromatic spices and served with a side of chutney.",
+        "image": "https://i.ibb.co/Wxr2Cg7/pexels-photo-725991.jpg",
+        "ingredients": [
+          "1 lb. fish, cubed",
+          "1 large onion, chopped",
+          "2 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "Salt, to taste",
+          "3 tbsp. oil"
+        ],
+        "rating": 4.2,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
+      },
+      {
+        "name": "Aloo Posto",
+        "description": "A simple and flavorful dish made with potatoes and poppy seeds, and served with steamed rice.",
+        "image": "https://i.ibb.co/Wxr2Cg7/pexels-photo-725991.jpg",
+        "ingredients": [
+          "1 lb. alu, cubed",
+          "1 large onion, chopped",
+          "2 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "Salt, to taste",
+          "3 tbsp. oil"
+        ],
+        "rating": 4.2,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
+      }
+    ]
+  },
+  {
+    "chefPicture": "https://i.ibb.co/v42qc1Y/pexels-photo-14841856.jpg",
+    "chefName": "Kuber Majhi",
+    "yearsOfExperience": 7,
+    "numberOfRecipes": 40,
+    "likes": 800,
+    "id": 5,
+    "bio": "Kuber Majhi is a talented chef with a passion for creating dishes that are both flavorful and healthy. He specializes in using fresh, locally-sourced ingredients.",
+    "recipes": [
+      {
+        "name": "Chitol Macher Muitha",
+        "description": "A unique and flavorful fish ball dish made with chitol fish and a blend of aromatic spices.",
+        "image": "https://i.ibb.co/Wxr2Cg7/pexels-photo-725991.jpg",
+        "ingredients": [
+          "1 lb. fish, cubed",
+          "1 large onion, chopped",
+          "2 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "Salt, to taste",
+          "3 tbsp. oil"
+        ],
+        "rating": 4.2,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
+      },
+      {
+        "name": "Bhuna Khichuri",
+        "description": "A hearty and flavorful rice and lentil dish made with caramelized onions and a blend of aromatic spices.",
+        "image": "https://i.ibb.co/s2PfMv8/pexels-photo-1624487.jpg",
+        "ingredients": [
+          "1 lb. chicken, cubed",
+          "1 large onion, chopped",
+          "2 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "Salt, to taste",
+          "3 tbsp. oil"
+        ],
+        "rating": 3.5,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
+      },
+      {
+        "name": "Murgir Jhol",
+        "description": "A simple and comforting chicken curry made with potatoes, onions, and a blend of spices.",
+        "image": "https://i.ibb.co/s2PfMv8/pexels-photo-1624487.jpg",
+        "ingredients": [
+          "1 lb. chicken, cubed",
+          "1 large onion, chopped",
+          "2 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "Salt, to taste",
+          "3 tbsp. oil"
+        ],
+        "rating": 3.5,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
+      }
+    ]
+  },
+  {
+    "chefPicture": "https://i.ibb.co/71b1KYf/pexels-photo-8350287.jpg",
+    "chefName": "Khadok Mojnu",
+    "yearsOfExperience": 9,
+    "numberOfRecipes": 70,
+    "likes": 1500,
+    "id": 6,
+    "bio": "Khadok Mojnu is a young and talented chef who is just starting out in the culinary world. She has a passion for creating healthy and flavorful dishes that are both accessible and affordable.",
+    "recipes": [
+      {
+        "name": "Shorshe Dharosh",
+        "description": "A simple and flavorful okra dish made with mustard paste, green chilies, and a blend of aromatic spices.",
+        "image": "https://i.ibb.co/km9XKmV/dherosh.jpg",
+        "ingredients": [
+          "1 lb. dharosh, cubed",
+          "1 large onion, chopped",
+          "2 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "Salt, to taste",
+          "3 tbsp. oil"
+        ],
+        "rating": 3.5,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
+      },
+      {
+        "name": "Chingri Bhorta",
+        "description": "A flavorful and spicy shrimp mash made with onions, tomatoes, and a blend of spices.",
+        "image": "https://i.ibb.co/CPMqNFz/pexels-photo-7363720.jpg",
+        "ingredients": [
+          "1 lb. chingri, cubed",
+          "1 large onion, chopped",
+          "2 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "Salt, to taste",
+          "3 tbsp. oil"
+        ],
+        "rating": 4.5,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
+      },
+      {
+        "name": "Chicken Korma",
+        "description": "A rich and creamy chicken curry made with cashew nuts, raisins, and a blend of aromatic spices.",
+        "image": "https://i.ibb.co/s2PfMv8/pexels-photo-1624487.jpg",
+        "ingredients": [
+          "1 lb. dharosh, cubed",
+          "1 large onion, chopped",
+          "2 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "Salt, to taste",
+          "3 tbsp. oil"
+        ],
+        "rating": 3.5,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
+      }
+    ]
+  }
+]
